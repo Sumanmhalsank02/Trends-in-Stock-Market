@@ -1,0 +1,1 @@
+# Trends-in-Stock-Market
