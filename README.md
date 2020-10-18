@@ -14,7 +14,7 @@ In this repository you will find a simple code that creates a column 'Trends' in
 Instead of using the Mathematical formula to compute the same I have used a function [pct_change()](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.pct_change.html) provided by Pandas for dataframes 
 Pandas is used to process and analyse the data. To analyse the data, here, I found out the Trend of a stock price
 
-## Extra fucntions in the code
+### Extra fucntions in the code
 1. The Maximum, Minimum and Mean price for the last 90 days (Price : Close Price)
 2. Conversion of Dates to datetime64(ns)
 3. Calculation of the monthwise VWAP (Volume Weighted Average Price) of the stock
