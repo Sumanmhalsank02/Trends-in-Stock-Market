@@ -21,7 +21,7 @@ Pandas is used to process and analyse the data. To analyse the data, here, I fou
 4. Use of groupby() function
 5. Calculation of Average and Profit/Loss over the last N days
 6. Average and Median of the Total Traded Quantity
-7. PLot of the Close Price
+7. Plot of the Close Price
 8. Stem Plot of the Daily_Percentage_Change and Number_of_Trades(Daily Volumes)
 9. Histogram for the Daily_Percentage_Change distribution
 10. Pie Chart for the Trends of the Stock price
