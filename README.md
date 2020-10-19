@@ -34,13 +34,19 @@ Pandas is used to process and analyse the data. To analyse the data, here, I fou
 PS: I have kept these Extras in the code for my personal reference
 
 
-## How to use the Code
+## Installation:
 ---
 
- 1. Download the Zip File
- 2. Copy the TCS.csv dataset to a preferred location
- 3. Copy the path and paste it in the Trends python code
- 4. Run the Trends python file 
+1. Clone repository.
+2. Ensure all dependencies are installed.
+
+
+## Usage
+---
+
+ 1. Copy the TCS.csv dataset to the project directory
+ 2. Copy the path and paste it in the Trends python code
+ 3. Run the Trends python file 
 
 
 ## License
