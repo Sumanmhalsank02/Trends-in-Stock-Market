@@ -1,4 +1,4 @@
-# Trends-in-Stock-Market
+# Trends in Stock Prices based on known conditions 
 To get a basic idea about Trends in stock market, I would recommend the following link [Trends](https://www.investopedia.com/terms/t/trend.asp)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Sumanmhalsank02/Trends-in-Stock-Market?color=orange)
